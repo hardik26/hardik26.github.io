@@ -1,2 +1,5 @@
 title: Hardik Pandya
-logo: /assets/img/
+logo: /assets/img/img_circle.png
+description: Test desc
+show_downloads: true
+theme: jekyll-theme-minimal
